@@ -5,9 +5,8 @@
 
 ## The Art of Discovery
 
-> You never change things by fighting the existing reality.  
-> To change something, build a new model that makes the existing model obsolete.  
-> **Buckminster Fuller**
+> I had rather excel others in the knowledge of what is excellent, than in the extent of my power and dominion.  
+> **Alexander the Great**
 
 * [Introduction](introduction)
 * [Structure](structure)
