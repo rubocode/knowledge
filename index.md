@@ -9,6 +9,6 @@
 > To change something, build a new model that makes the existing model obsolete.  
 > **Buckminster Fuller**
 
-* Structure
-* Learning
-* Education
+* [Structure](structure)
+* [Learning](learning)
+* [Education](education)
